@@ -1,4 +1,4 @@
-# Personal Portfolio Website – Flowchart
+# Student Academic Dashboard – Flowchart
 
 ```mermaid
 flowchart TD
